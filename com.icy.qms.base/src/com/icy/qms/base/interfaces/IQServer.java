@@ -2,11 +2,11 @@ package com.icy.qms.base.interfaces;
 
 public interface IQServer {
 
-	//Í¬²½·½·¨
+	//Í¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	boolean startServer();
 	
 	boolean stopServer();
 	
-	//Òì²½·½·¨
+	//ï¿½ì²½ï¿½ï¿½ï¿½ï¿½
 	void getTicket();
 }
